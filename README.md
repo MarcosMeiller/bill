@@ -1,24 +1,25 @@
-# README
+api-rest creada para checkear costos de una api dando distinta informacion.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Desarrollado con ruby on rails
 
-Things you may want to cover:
+los programas para probar el codigo son: _ruby _ruby on rails
 
-* Ruby version
+instalacion y ejecucion:
 
-* System dependencies
+ejecutar en consola:
 
-* Configuration
+git clone https://github.com/MarcosMeiller/bill.git
 
-* Database creation
+cd bill-info
 
-* Database initialization
+bundle install
 
-* How to run the test suite
+rails s 
 
-* Services (job queues, cache servers, search engines, etc.)
+links de heroku: GET https://safe-atoll-54414.herokuapp.com/bill_movement
 
-* Deployment instructions
+link de postman: https://www.getpostman.com/collections/cd39102b6d0e484a4985
 
-* ...
+aqui el endpoint ya cargado, se exporta con la url en tu aplicacion de postman y te carga la coleccion con el endpoint.
+
+Creada por Marcos Meiller.
