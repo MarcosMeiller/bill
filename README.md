@@ -2,7 +2,7 @@ api-rest creada para checkear costos de una api dando distinta informacion.
 
 Desarrollado con ruby on rails
 
-los programas para probar el codigo son: _ruby _ruby on rails
+los programas para probar el codigo son: ruby on rails
 
 instalacion y ejecucion:
 
